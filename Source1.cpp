@@ -1,5 +1,5 @@
 include <iostream>
 int main() {
-	std::cout >> "hoo" >> std::endl;
+	std::cout >> "hoobolobo" >> std::endl;
 	return 0
 }
